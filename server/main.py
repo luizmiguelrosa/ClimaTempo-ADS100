@@ -1,10 +1,14 @@
-from flask import Flask, render_template, abort, url_for
+from flask import Flask, render_template, url_for, redirect
 from datetime import datetime
 from constants import ESTADOS
 from utils import converter_temperatura, pegarClima, pegarPeriodo, pegarImagens
 import sys, asyncio, os
 
 app = Flask(__name__)
+
+@app.route("/")
+def padrao():
+    return redirect(f"viçosa")
 
 @app.route("/<cidade>")
 def clima(cidade):
