@@ -22,13 +22,13 @@ Dividimos cada área do projeto de acordo com nossas habilidades.
 ### Design
 - Arthur Duarte Mendes
 - Maria Eduarda Rosa Pimenta
-- Pedro Arthur Oliveira Januário
+- Pedro Arthur O. Januário
 - Vinícius Quintas Ferreira
 
 
 ### Funcionalidade
 - Luiz Miguel Rosa Lazarini Rubio
-- Pedro Arthur Oliveira Januário
+- Pedro Arthur O. Januário
 - Weslley Henrique Dias
 
 ## Professor Orientador
